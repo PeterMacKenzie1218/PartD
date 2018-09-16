@@ -6,6 +6,8 @@ public class PartDMain {
 		System.out.println("Hi, my name is Peter.");
 		
 		System.out.println("My favourite colour is Blue.");
+		
+		System.out.println("My favourite mode of transportation is the train.");
 
 	}
 
