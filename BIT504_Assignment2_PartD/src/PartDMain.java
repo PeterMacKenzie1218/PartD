@@ -9,6 +9,7 @@ public class PartDMain {
 		
 		System.out.println("My favourite mode of transportation is the train.");
 
+		System.out.println("The best day of the week is Friday.");
 	}
 
 }
